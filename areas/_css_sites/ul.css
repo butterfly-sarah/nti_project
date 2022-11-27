@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+li {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 10px
+}
+
+li:before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: FontAwesome;
+    content: "\f6c3";
+    color: rgb(46, 128, 250);
+}
+p{
+    font-size:larger;
+}

@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(43, 88, 161);
+}
+#email,#pass,input[type=submit]{
+    display: block;
+}
+div{
+    padding-top: 15px;
+    background-color: white;
+    width: 500px;
+    height: 450px;
+    margin-top: 150px;
+    margin-left: 500px;
+}
+h1{
+    text-align: center;
+}
+input,label{
+    margin-left: 100px;
+    line-height: 50px;
+}
+input[type=text],input[type=password]{
+    line-height: 25px;
+    width: 300px;
+}
+#r{
+    margin-left: 0;
+}
+input[type=submit]{
+    width: 300px;
+    background-color: rgb(43, 88, 161);
+    border: 0ch;
+    height: 45px;
+    color: white;
+    margin-top: 15px;
+}

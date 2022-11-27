@@ -1,0 +1,55 @@
+.big{
+    height: 400px;
+    margin: auto;
+    padding-top: 10%;
+    background-image: url(https://cdn-employer-wp.arc.dev/wp-content/uploads/2022/04/software-development-costs-1128x635.jpg);
+}
+.inner{
+    width: 325px;
+    height: 150px;
+    margin-left: 1150px;
+    border: 2px solid white;
+}
+p{
+    text-align: center;
+    font-size: larger;
+    color: white;
+}
+.white{
+    background-image: url(https://hejuba.ch/fileadmin/_processed_/4/7/csm_AdobeStock_457937822_69b6589962.jpeg);
+    padding:15px 100px ;
+    height: 450px;
+    box-sizing: border-box;
+}
+a{
+    font-size: 24;
+    margin-left: 25px;
+    color: white;
+    text-decoration: none;
+}
+input{
+    display: block;
+    width: 500px;
+    margin-bottom: 17px;
+}
+.con{
+    margin-left: 350px;
+    color: rgb(26, 26, 65);
+}
+.contact{
+    padding-bottom: 50px;
+    padding-left: 350px;
+}
+label{
+    color:rgb(55, 55, 119),
+}
+input[submit]{
+    margin-top: 50px;
+}
+.form{
+    margin-left: 150px;
+}
+.divv{
+    width: 100%;
+    padding-left: 0%;
+}

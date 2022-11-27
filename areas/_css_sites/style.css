@@ -1,0 +1,47 @@
+.divfirst,.divsecond{
+    text-align: center;
+}
+.sharedimg{
+    width: 350px;
+    height: 350px;
+}
+.secondimg{
+    opacity: .7;
+}
+.imgcaption{
+    font-size: 20;
+    background-color: aqua;
+}
+#head{
+    color: green;
+}
+div[class^="divs"]{
+    background-color: blueviolet;
+}
+div[class$="th"]{
+    background-color: brown;
+    color: rgb(0, 0, 0);
+}
+#ppp{
+    border: 5px solid pink;
+    border-radius: 35px;
+    width: 30%;
+    height: 100px;
+    background-color: aquamarine;
+}
+.shared{
+    border: 5px green dashed;
+    background: rgb(78, 235, 130);
+}
+.testdiv{
+    width: 500px;
+    height: 450px;
+    margin: auto;
+    padding-left: 1px;
+}
+.childdiv{
+    width: auto;
+    height: 300px;
+    background: white;
+    margin: 10px;
+}

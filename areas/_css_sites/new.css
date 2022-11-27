@@ -1,0 +1,62 @@
+.web,.prog,.math{
+    visibility: hidden;
+    width: 25%;
+    height: 50px;
+}
+.nav .w:hover .web{
+    visibility: visible;
+    background-color: blue;
+}
+.p:hover .prog{
+    visibility: visible;
+    background-color: blue;
+}
+.m:hover .math{
+    visibility: visible;
+    background-color: blue;
+}
+a{
+    display: block;
+}
+.m :hover{
+    background-color: blue;
+}
+.a:hover{
+    text-decoration: none;
+    background-color: aqua;
+}
+.d{
+    display: -webkit-box;
+
+margin-left: auto;
+    width: 100px;
+  height: 100px;
+  background: red;
+  transition-property:border;
+  transition-duration: 5s;
+  transition-timing-function: linear;
+  transition-delay: 0s;
+}
+.d:hover{
+    
+    transform: translate(-1450px,0px);
+    transition: 5s;
+    border-radius: 50%;
+    background-color: blue;
+}
+.dx{
+    width: 100px;
+    height: 100px;
+    background: red;
+    transition-property:border;
+    transition-duration: 5s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+}
+.dx:hover{
+    
+    transform: translate(1450px,0px);
+    transition: 5s;
+    border-radius: 50%;
+    background-color: blue;
+}

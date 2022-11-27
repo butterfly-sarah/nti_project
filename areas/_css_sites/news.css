@@ -1,0 +1,28 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+}
+.b{
+    display: flex;
+    flex-flow: column;
+    min-height: 700px;
+}
+.h,.f{
+    background-color: salmon;
+    height: 30px;
+}
+.first{
+    flex-grow: 1;
+    background-color: aqua;
+}
+.second{
+    
+    flex-grow: 1;
+    background-color: rgb(114, 85, 201);
+}
+.third{
+    
+    flex-grow: 1;
+    background-color: aqua;
+}

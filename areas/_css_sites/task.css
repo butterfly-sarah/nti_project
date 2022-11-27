@@ -1,0 +1,60 @@
+
+.div{
+    width: 90%;
+    height: 65%;
+    background-image: url(../../assets/media/images/beachshow.jpg);
+    background-size:100% 100%;
+    margin: 0;
+
+}
+
+.brown{
+    font-family: Arial, Helvetica, sans-serif;
+    color: saddlebrown;
+    text-align: center;
+    position: relative;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+h1{
+    margin-top: 0;
+}
+.border{
+    text-decoration: none;
+    border: 0.03cm saddlebrown solid;
+    border-radius: 10%;
+    padding: 0.1cm;
+}
+.dbr{
+    width: 90%;
+    background-color: saddlebrown;
+}
+.white{
+    margin: 0;
+    color: white;
+}
+.wbr{
+    margin-top: 0;
+    width: 90%;
+    background-color:white;
+}
+.br{
+    margin-top: 0;
+    color: saddlebrown;
+}
+table{
+    width: 90%;
+}
+td{
+    background-color: saddlebrown;
+}
+#td{
+    background-color: white;
+}
+td,p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12;
+    padding: .4cm;
+}
