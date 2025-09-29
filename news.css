@@ -6,7 +6,7 @@
 .b{
     display: flex;
     flex-flow: column;
-    min-height: 700px;
+    min-height: 100%;
 }
 .h,.f{
     background-color: salmon;
